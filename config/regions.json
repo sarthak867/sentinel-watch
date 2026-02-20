@@ -1,0 +1,52 @@
+{
+  "regions": [
+    {
+      "name": "Amazon Basin",
+      "bbox": [-65.0, -5.0, -58.0, 0.0],
+      "lat": -3.4, "lon": -62.2,
+      "primary_risk": "deforestation",
+      "country": "Brazil / Peru / Colombia",
+      "area_km2": 5500000
+    },
+    {
+      "name": "Bangladesh Delta",
+      "bbox": [88.0, 21.0, 93.0, 25.0],
+      "lat": 23.7, "lon": 90.4,
+      "primary_risk": "flood",
+      "country": "Bangladesh",
+      "area_km2": 147570
+    },
+    {
+      "name": "Punjab Farmlands",
+      "bbox": [73.0, 28.0, 78.0, 33.0],
+      "lat": 30.9, "lon": 75.8,
+      "primary_risk": "crop_stress",
+      "country": "India / Pakistan",
+      "area_km2": 257000
+    },
+    {
+      "name": "Jakarta Suburbs",
+      "bbox": [106.0, -7.0, 108.0, -5.5],
+      "lat": -6.2, "lon": 106.8,
+      "primary_risk": "construction",
+      "country": "Indonesia",
+      "area_km2": 7000
+    },
+    {
+      "name": "Siberia Boreal",
+      "bbox": [85.0, 57.0, 97.0, 64.0],
+      "lat": 60.5, "lon": 90.1,
+      "primary_risk": "fire",
+      "country": "Russia",
+      "area_km2": 10000000
+    },
+    {
+      "name": "Sahel Region",
+      "bbox": [-2.0, 11.0, 7.0, 16.0],
+      "lat": 13.5, "lon": 2.1,
+      "primary_risk": "crop_stress",
+      "country": "Mali / Niger / Chad",
+      "area_km2": 3053200
+    }
+  ]
+}
